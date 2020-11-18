@@ -1,3 +1,10 @@
+## [2.2.11](https://github.com/informatievlaanderen/tostring-builder/compare/v2.2.10...v2.2.11) (2020-11-18)
+
+
+### Bug Fixes
+
+* remove set-env usage in gh-actions ([8caf900](https://github.com/informatievlaanderen/tostring-builder/commit/8caf9005107c80e0a44f024702328063258b5d1b))
+
 ## [2.2.10](https://github.com/informatievlaanderen/tostring-builder/compare/v2.2.9...v2.2.10) (2020-09-21)
 
 
